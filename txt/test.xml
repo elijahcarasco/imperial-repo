@@ -7,8 +7,14 @@
 
 
 <plugin>
-<name> [COLOR white]UFC REPLAYS[/COLOR]</name>
+<name>[COLOR white]UFC REPLAYS[/COLOR]</name>
 <link>plugin://script.module.symbiotor?search=general&title=UFC</link>
+<thumbnail>https://cdn6.aptoide.com/imgs/4/6/c/46c6384c94584f47551b62f51781d166_icon.png</thumbnail>
+</plugin>
+
+<plugin>
+<name>[COLOR white]MLB REPLAYS[/COLOR]</name>
+<link>plugin://script.module.symbiotor?search=general&title=MLB</link>
 <thumbnail>https://cdn6.aptoide.com/imgs/4/6/c/46c6384c94584f47551b62f51781d166_icon.png</thumbnail>
 </plugin>
 </items>
