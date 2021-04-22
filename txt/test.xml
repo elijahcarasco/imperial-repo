@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+<fanart>https://offshoregit.com/c0ldfire/zip/plugin.video.no-name/fanart.jpg</fanart>
+<SetViewMode>1</SetViewMode>
+<items>
+
+
+<plugin>
+<name> [COLOR white]test script call[/COLOR]</name>
+<link>plugin://script.module.symbiotor?search=general&title=UFC</link>
+<thumbnail>http://karnage.dark-avengers.com/images/icons/karicon.jpg</thumbnail>
+</plugin>
+</items>
