@@ -7,14 +7,14 @@
 
 
 <plugin>
-<name> [COLOR white]ufc replays[/COLOR]</name>
+<name> [COLOR white]UFC Random Replays[/COLOR](Real Debrid Needed)</name>
 <link>plugin://script.module.symbiotor?search=general&title=UFC</link>
 <thumbnail>http://karnage.dark-avengers.com/images/icons/karicon.jpg</thumbnail>
 </plugin>
 
 
 <plugin>
-<name> [COLOR white]mlb replays[/COLOR]</name>
+<name> [COLOR white]MLB Random Replays[/COLOR](Real Debrid Needed)</name>
 <link>plugin://script.module.symbiotor?search=general&title=mlb</link>
 <thumbnail>http://karnage.dark-avengers.com/images/icons/karicon.jpg</thumbnail>
 </plugin>
