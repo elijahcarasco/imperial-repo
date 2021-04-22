@@ -7,14 +7,14 @@
 
 
 <plugin>
-<name> [COLOR white]test script call[/COLOR]</name>
+<name> [COLOR white]UFC Replays[/COLOR]</name>
 <link>plugin://script.module.symbiotor?search=general&title=UFC</link>
 <thumbnail>http://karnage.dark-avengers.com/images/icons/karicon.jpg</thumbnail>
 </plugin>
 
 
 <plugin>
-<name> [COLOR white]test script call[/COLOR]</name>
+<name> [COLOR white]MLB Replays[/COLOR]</name>
 <link>plugin://script.module.symbiotor?search=general&title=mlb</link>
 <thumbnail>http://karnage.dark-avengers.com/images/icons/karicon.jpg</thumbnail>
 </plugin>
