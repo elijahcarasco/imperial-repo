@@ -9,14 +9,20 @@
 <plugin>
 <name> [COLOR white]UFC Random Replays[/COLOR](Real Debrid Needed)</name>
 <link>plugin://script.module.symbiotor?search=general&title=UFC</link>
-<thumbnail>http://karnage.dark-avengers.com/images/icons/karicon.jpg</thumbnail>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/21fe3s52PLL.png</thumbnail>
 </plugin>
 
 
 <plugin>
 <name> [COLOR white]MLB Random Replays[/COLOR](Real Debrid Needed)</name>
 <link>plugin://script.module.symbiotor?search=general&title=mlb</link>
-<thumbnail>http://karnage.dark-avengers.com/images/icons/karicon.jpg</thumbnail>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51CySnnnoUL.png</thumbnail>
+</plugin>
+
+<plugin>
+<name> [COLOR white]NFL Random Replays[/COLOR](Real Debrid Needed)</name>
+<link>plugin://script.module.symbiotor?search=general&title=nfl</link>
+<thumbnail>https://jesuitnews.com/wp-content/uploads/2020/04/154E0A61-0313-4C29-A51F-894706518B9B.png</thumbnail>
 </plugin>
 
 
