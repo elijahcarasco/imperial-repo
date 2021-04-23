@@ -31,11 +31,10 @@
 <thumbnail>https://cdn.iconscout.com/icon/free/png-512/nba-282876.png</thumbnail>
 </plugin>
 
-<plugin>
-<name>[COLOR white]**********test**********[/COLOR](Real Debrid Needed)</name>
-<link></link>
-<thumbnail>https://cdn.iconscout.com/icon/free/png-512/nba-282876.png</thumbnail>
-</plugin>
+ <dir>
+    <title>Formats</title>
+    <link>file://formats/main.xml</link>
+ </dir>
 
 
 </items>
