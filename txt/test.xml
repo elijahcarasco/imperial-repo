@@ -31,11 +31,10 @@
 <thumbnail>https://cdn.iconscout.com/icon/free/png-512/nba-282876.png</thumbnail>
 </plugin>
 
-<plugin>
-<name>[COLOR white]Concerts[/COLOR](Real Debrid Needed)</name>
-<link>plugin://script.module.symbiotor?search=general&title=concerts</link>
-<thumbnail>https://cdn.iconscout.com/icon/free/png-512/nba-282876.png</thumbnail>
-</plugin>
+
+<name>test</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
 
 
 </items>
