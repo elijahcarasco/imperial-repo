@@ -1,0 +1,500 @@
+<plugin>
+	<name>Star Wars Episode IV A New Hope</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0076759&title=Star Wars Episode IV A New Hope&year=1977</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Blade Runner</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0083658&title=Blade Runner&year=1982</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qLX91FhHWCVrxDVsw0g2UD5c3Zk.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Star Wars Episode V The Empire Strikes Back</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0080684&title=Star Wars Episode V The Empire Strikes Back&year=1980</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7BuH8itoSrLExs2YZSsM01Qk2no.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Star Wars Episode VI Return of the Jedi</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0086190&title=Star Wars Episode VI Return of the Jedi&year=1983</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/mDCBQNhR6R0PVFucJl0O4Hp5klZ.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Matrix</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0133093&title=The Matrix&year=1999</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Planet of the Apes</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0063442&title=Planet of the Apes&year=1968</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/hjRLPGCbADVsSaa26pdjV0qlSjt.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Star Wars Episode I The Phantom Menace</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0120915&title=Star Wars Episode I The Phantom Menace&year=1999</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Star Wars Episode II Attack of the Clones</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0121765&title=Star Wars Episode II Attack of the Clones&year=2002</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/oZNPzxqM2s5DyVWab09NTQScDQt.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Star Wars Episode III Revenge of the Sith</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0121766&title=Star Wars Episode III Revenge of the Sith&year=2005</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Star Trek II The Wrath of Khan</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0084726&title=Star Trek II The Wrath of Khan&year=1982</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>TRON</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0084827&title=TRON&year=1982</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/zwSFEczP7AzqugAHHIX3zHniT0t.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Dark Knight</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0468569&title=The Dark Knight&year=2008</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qJ2tW6WMUDux911r6m7haRef0WH.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Dark City</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0118929&title=Dark City&year=1998</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/AdBe2ow8hdlT2aLBYuUjs0Xkqkw.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>TRON Legacy</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1104001&title=TRON Legacy&year=2010</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vuifSABRpSnxCAOxEnWpNbZSXpp.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Ghostbusters</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0087332&title=Ghostbusters&year=1984</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/h5Qz8J4T8YQnbZzHXM73WVYYVPK.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Metropolis</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0017136&title=Metropolis&year=1927</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/hUK9rewffKGqtXynH5SW3v9hzcu.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Ghostbusters II</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0097428&title=Ghostbusters II&year=1989</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/yObYPMA58DnTMvJooFW7GG6jWAt.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Indiana Jones and the Raiders of the Lost Ark</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0082971&title=Indiana Jones and the Raiders of the Lost Ark&year=1981</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ceG9VzoRAVGwivFU403Wc3AHRys.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Indiana Jones and the Temple of Doom</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0087469&title=Indiana Jones and the Temple of Doom&year=1984</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/wu0m7HiZyZr4pOp8IpnFHNvGkVV.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Indiana Jones and the Last Crusade</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0097576&title=Indiana Jones and the Last Crusade&year=1989</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/acgJPtbeXdBaKYAUVdfYLVwKzAC.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Close Encounters of the Third Kind</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0075860&title=Close Encounters of the Third Kind&year=1977</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/kzD5ng3BvRUxW9vBfCkg61XjITR.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The NeverEnding Story</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0088323&title=The NeverEnding Story&year=1984</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/jq67Zg1TVXNZxTvcXxfIdxK3IWV.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Alien</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0078748&title=Alien&year=1979</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Aliens</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0090605&title=Aliens&year=1986</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Alien xb3</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0103644&title=Alien xb3&year=1992</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/hlabk6APJUeihZDaSD9N6iI0f4g.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Alien Resurrection</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0118583&title=Alien Resurrection&year=1997</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/kzslFL1n01WI5lEcYzFSUi3Quik.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Rise of the Planet of the Apes</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1318514&title=Rise of the Planet of the Apes&year=2011</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7HBHA1YMhTmfMX91i1hauakIKo5.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Ghost Rider</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0259324&title=Ghost Rider&year=2007</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/1pyU94dAY7npDQCKuxCSyX9KthN.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Pan s Labyrinth</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0457430&title=Pan s Labyrinth&year=2006</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/hyZ8srM2hmrtDhw1ED9Ny9r0AKW.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Dune</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0087182&title=Dune&year=1984</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/4kJmUCE7mkVJjXa7A0g2rY4IGTm.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Predator</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0093773&title=Predator&year=1987</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/9XibNLfmUWCg0PPydmyoCl1KxvF.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Predator 2</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0100403&title=Predator 2&year=1990</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7OAAsKvYwEq23ppBSq8NfJ0iUuo.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Princess Bride</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0093779&title=The Princess Bride&year=1987</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/whF3YddFYSwJNuHEvi5lpsnty2l.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Batman Begins</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0372784&title=Batman Begins&year=2005</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/1P3ZyEq02wcTMd3iE4ebtLvncvH.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Lord of the Rings The Fellowship of the Ring</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0120737&title=The Lord of the Rings The Fellowship of the Ring&year=2001</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Akira</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0094625&title=Akira&year=1988</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/5KlRFKKSbyCiyYpZSS3A6G5bW0K.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>X Men</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0120903&title=X Men&year=2000</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/bRDAc4GogyS9ci3ow7UnInOcriN.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>X2 X Men United</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0290334&title=X2 X Men United&year=2003</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/mnDo22GA2WUvyWY9PyhZqxdaejC.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>X Men The Last Stand</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0376994&title=X Men The Last Stand&year=2006</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/f6Mc9si1uwrxVfEpsZeU7d1HpVb.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>X Men Origins Wolverine</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0458525&title=X Men Origins Wolverine&year=2009</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/mQglrQzgZT0Oj9cQYPsLI8dsEqB.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>X First Class</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1270798&title=X First Class&year=2011</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/yoKdvhqVw45oEF34No2cD7aP3sx.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Superman</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0078346&title=Superman&year=1978</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Superman II</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0081573&title=Superman II&year=1980</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/r9ZRah6rYBoRuPyj8g5Ei411XNM.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Superman III</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0086393&title=Superman III&year=1983</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/c4oR6qgZW2s5foGkQi2Dd86KuAS.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Superman IV The Quest for Peace</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0094074&title=Superman IV The Quest for Peace&year=1987</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vhs3P0JwqzlgfBqhjnCWDEOtDmS.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Superman Returns</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0348150&title=Superman Returns&year=2006</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qIegbn6DSUYmggfwxOBNOVS35q.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Willow</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0096446&title=Willow&year=1988</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/s0HWM0TZ1eKO9prRgz5gF0YGGps.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The NeverEnding Story II The Next Chapter</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0100240&title=The NeverEnding Story II The Next Chapter&year=1990</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/5QfUCbgKzWzjHO5X4ANsDmuTxNQ.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Goonies</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0089218&title=The Goonies&year=1985</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Gremlins</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0087363&title=Gremlins&year=1984</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/72Y1X9pMSjXQ7mKB6pBEoMhL0OQ.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Chronicles of Riddick</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0296572&title=The Chronicles of Riddick&year=2004</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/iSaB7jBgsU6sXqKneZpdeRw5MSV.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Pitch Black</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0134847&title=Pitch Black&year=2000</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qSv4ZCKmpo3Nqkh7YTvLruE9KcW.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Watchmen</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0409459&title=Watchmen&year=2009</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/aZvOkdo203bm1kpcY0A0Tn074ER.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Spider Man</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0145487&title=Spider Man&year=2002</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Spider Man 2</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0316654&title=Spider Man 2&year=2004</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/olxpyq9kJAZ2NU1siLshhhXEPR7.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Spider Man 3</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0413300&title=Spider Man 3&year=2007</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/sqZKCRYGovZ8aN99VVJSdL8Ja9k.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Stargate</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0111282&title=Stargate&year=1994</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fyTqTETiXncfESLyKfkgEs7qg7d.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Star Trek The Motion Picture</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0079945&title=Star Trek The Motion Picture&year=1979</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ffo56udrkF28ICTv3Xx1S9X6Dw4.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Star Trek III The Search for Spock</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0088170&title=Star Trek III The Search for Spock&year=1984</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/yqEj0oPfKBMCz7YcCARHDgH7VFm.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Star Trek IV The Voyage Home</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0092007&title=Star Trek IV The Voyage Home&year=1986</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Star Trek V The Final Frontier</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0098382&title=Star Trek V The Final Frontier&year=1989</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/uiXr41VLYsuug3CZbFrKLSNahuZ.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Star Trek VI The Undiscovered Country</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0102975&title=Star Trek VI The Undiscovered Country&year=1991</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/tvTOJD7Gz668GLy2nNdLRQvpPsv.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Star Trek Generations</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0111280&title=Star Trek Generations&year=1994</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/rHsCYDGHFUarGh5k987b0EFU6kC.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Star Trek First Contact</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0117731&title=Star Trek First Contact&year=1996</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vrC1lkTktFQ4AqBfqf4PXoDDLcw.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Star Trek Insurrection</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0120844&title=Star Trek Insurrection&year=1998</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/9pbc44kltJhArUNyrdQcantMEvH.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Star Trek Nemesis</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0253754&title=Star Trek Nemesis&year=2002</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/cldAwhvBmOv9jrd3bXWuqRHoXyq.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Star Trek</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0796366&title=Star Trek&year=2009</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Batman</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0096895&title=Batman&year=1989</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/tDexQyu6FWltcd0VhEDK7uib42f.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Batman Returns</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0103776&title=Batman Returns&year=1992</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Predators</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1424381&title=Predators&year=2010</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gsnUhWMYLSD8VZS7nrMT9mj9BYr.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>King Solomon s Mines</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0089421&title=King Solomon s Mines&year=1985</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/pJhlKVziN12Jr2a0fpWGTLuDT0S.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Alien vs Predator</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0370263&title=Alien vs Predator&year=2004</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/2DKoPom57PVtJWcJlq7bS7JpahU.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Thor</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0800369&title=Thor&year=2011</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Captain America The First Avenger</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0458339&title=Captain America The First Avenger&year=2011</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Contact</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0118884&title=Contact&year=1997</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/bCpMIywuNZeWt3i5UMLEIc0VSwM.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Chronicles of Narnia The Lion, the Witch and the Wardrobe</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0363771&title=The Chronicles of Narnia The Lion, the Witch and the Wardrobe&year=2005</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/kzJip9vndXYSKQHCgekrgqbnUrA.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Chronicles of Narnia Prince Caspian</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0499448&title=The Chronicles of Narnia Prince Caspian&year=2008</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qxz3WIyjZiSKUhaTIEJ3c1GcC9z.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Chronicles of Narnia The Voyage of the Dawn Treader</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0980970&title=The Chronicles of Narnia The Voyage of the Dawn Treader&year=2010</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/pP27zlm9yeKrCeDZLFLP2HKELot.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Lord of the Rings The Return of the King</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0167260&title=The Lord of the Rings The Return of the King&year=2003</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Lord of the Rings The Two Towers</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0167261&title=The Lord of the Rings The Two Towers&year=2002</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Evil Dead</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0083907&title=The Evil Dead&year=1981</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/uYxQ6xhP3WjqPZtxyAOnZQWnZqn.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Evil Dead II</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0092991&title=Evil Dead II&year=1987</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/4zqCKJVHUolGs6C5AZwAZqLWixW.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Army of Darkness</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0106308&title=Army of Darkness&year=1992</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/mOsWtjRGABrPrqqtm0U6WQp4GVw.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Black Hole</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0078869&title=The Black Hole&year=1979</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gCqOJWvOK5UPospyrLANKfwRBlG.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Beneath the Planet of the Apes</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0065462&title=Beneath the Planet of the Apes&year=1970</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/v1r5mBh9hxxWpvZl9G3cP7d1Mh9.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Escape from the Planet of the Apes</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0067065&title=Escape from the Planet of the Apes&year=1971</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ry0Q8G9LlABC4cBhvyCpZ9VcAH1.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Conquest of the Planet of the Apes</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0068408&title=Conquest of the Planet of the Apes&year=1972</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/lZ1pUxJCO14ObrhDuxTBuYm0tjN.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Battle for the Planet of the Apes</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0069768&title=Battle for the Planet of the Apes&year=1973</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/dP5dYjLp5p2CG103cJMio4Nj29d.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Planet of the Apes</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0133152&title=Planet of the Apes&year=2001</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/njdwSoVL1qMgdOCV0RwwuOfG3vF.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Iron Man</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0371746&title=Iron Man&year=2008</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/78lPtwv72eTNqFW9COBYI0dWDJa.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Iron Man 2</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1228705&title=Iron Man 2&year=2010</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Transformers The Movie</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0092106&title=The Transformers The Movie&year=1986</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/j4HTorvJdGOuIgGyE56fMCLmcCg.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Transformers</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0418279&title=Transformers&year=2007</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6eehp9I54syN3x753XMqjKz8M3F.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Transformers Revenge of the Fallen</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1055369&title=Transformers Revenge of the Fallen&year=2009</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/pLBb0whOzVDtJvyD4DPeQyQNOqp.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Transformers Dark of the Moon</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1399103&title=Transformers Dark of the Moon&year=2011</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/yUqm7eke9oL0ZmKJfgIJLs8WNuJ.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Fantastic Four</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0120667&title=Fantastic Four&year=2005</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/8HLQLILZLhDQWO6JDpvY6XJLH75.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Hulk</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0286716&title=Hulk&year=2003</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qnngKqAcqfH2pBxDoKu5lxzSbTo.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Fantastic Four Rise of the Silver Surfer</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0486576&title=Fantastic Four Rise of the Silver Surfer&year=2007</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/9wRfzTcMyyzkQxVDqBHv8RwuZOv.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Incredible Hulk</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0800080&title=The Incredible Hulk&year=2008</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/odVVJrCOveHXCBc5Pf2k4XmOhIz.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Labyrinth</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0091369&title=Labyrinth&year=1986</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/AdWRVEkLV9RlUK8tREclkIIOfjT.jpg</thumbnail>
+</plugin>
