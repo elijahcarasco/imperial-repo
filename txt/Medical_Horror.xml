@@ -1,0 +1,110 @@
+<plugin>
+	<name>Dr Giggles</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0104139&title=Dr Giggles&year=1992</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7XpnT0xrFALp3t4aTb34LvDzrSW.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Dead Ringers</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0094964&title=Dead Ringers&year=1988</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/74GupdZY2hzpiawRJxBChVhnZLw.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Flatliners</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0099582&title=Flatliners&year=1990</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/wda3j7p7YHXKpFIlSzoTCtP7myF.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Dentist</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0116075&title=The Dentist&year=1996</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6KKlDuyraOgPsSh1FI3so6eImwm.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Blood Relations</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0092672&title=Blood Relations&year=1988</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/uNpcoj6MEN85cn6zxQn7t0RyT2Q.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Re Animator</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0089885&title=Re Animator&year=1985</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/1hY6AUl92cL9GdZx031UWFiGETt.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Body Parts</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0101492&title=Body Parts&year=1991</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fPyQru2wDGLYSWf6AkOcNulFfPI.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Frankenstein</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0109836&title=Frankenstein&year=1994</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/bOwCAQsZlEKrwhPi1ejY6BS8jpL.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Skin I Live In</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1189073&title=The Skin I Live In&year=2011</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/Ap9bE10BHo3URGXN8RMkueseuQF.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Boxing Helena</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0106471&title=Boxing Helena&year=1993</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fL8b32TY3Cxe661kztmzz5AlIM0.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Anatomy</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0187696&title=Anatomy&year=2000</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/hZgnRhrOkmjjod5u3umbw4y08kX.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Visiting Hours</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0083296&title=Visiting Hours&year=1982</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/a89r6eEehqfRw4yCrFld5e7wffC.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Brain Dead</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0099173&title=Brain Dead&year=1990</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/eaoGvqROCuJTKKKRUze8ZUSlzba.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Hellbound Hellraiser II</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0095294&title=Hellbound Hellraiser II&year=1988</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/auPOq1wgZuYSaADejOskBKG6fuV.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Surgeon</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0109761&title=The Surgeon&year=1995</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/iKugBS6e4JEo9BYHhzjDDLVd2En.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Unborn</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0103157&title=The Unborn&year=1991</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/zilEvurrEostVxGSklgsJm7hJXx.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Island of Dr Moreau</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0116654&title=The Island of Dr Moreau&year=1996</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/hOJeQXve8W9rNRhdgC1WV3GQJyA.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Hollow Man</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0164052&title=Hollow Man&year=2000</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/nAasMJGaytKKsMGbrXJr0g8OufK.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Fly</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0091064&title=The Fly&year=1986</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/wLnulyRMhZfrXr7qaufBFv5H1us.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Fragile</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0422272&title=Fragile&year=2005</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/s7gCOegufXiQR48IhuTsPNy0Fav.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Good Doctor</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1582271&title=The Good Doctor&year=2011</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fJSdqHzpMeCkXMrILYt1SdGN2sL.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Pathology</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0964539&title=Pathology&year=2008</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/tIjj2tvaueLbnHW8Q2ZU7tGJACN.jpg</thumbnail>
+</plugin>

@@ -1,0 +1,250 @@
+<plugin>
+	<name>2012</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1190080&title=2012&year=2009</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/zaqam2RNscH5ooYFWInV6hjx6y5.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Road</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0898367&title=The Road&year=2009</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qLaXnLzqleBWQtjvZ6JGVSaKoC3.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>War of the Worlds</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0407304&title=War of the Worlds&year=2005</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6Biy7R9LfumYshur3YKhpj56MpB.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>28 Days Later</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0289043&title=28 Days Later&year=2002</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/w4SL5hv0qOanrN7GjwNgtjF1RtD.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>28 Weeks Later</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0463854&title=28 Weeks Later&year=2007</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/c1i2kDslTFdMVUzXIgl7l0NO0qx.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Battleship</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1440129&title=Battleship&year=2012</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/mXb3hot6ZW4hMfpZSK7UtD70WgM.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Legion</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1038686&title=Legion&year=2010</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/b30W1DVVHnDlcZaNbbISjIWFx2M.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Children of Men</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0206634&title=Children of Men&year=2006</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/k9IAS4TehZFcKi4HVByxZNPfqex.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Daybreakers</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0433362&title=Daybreakers&year=2009</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ebnmZ3v7IErHpExUJaKhdJpM84E.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Green Lantern</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1133985&title=Green Lantern&year=2011</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fj21HwUprqjjwTdkKC1XZurRSpV.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Jumanji</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0113497&title=Jumanji&year=1995</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vgpXmVaVyUL7GGiDeiK1mKEKzcX.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Planet of the Apes</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0063442&title=Planet of the Apes&year=1968</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/hjRLPGCbADVsSaa26pdjV0qlSjt.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Rise of the Planet of the Apes</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1318514&title=Rise of the Planet of the Apes&year=2011</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7HBHA1YMhTmfMX91i1hauakIKo5.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Seeking a Friend for the End of the World</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1307068&title=Seeking a Friend for the End of the World&year=2012</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/rBbCwFLyt7Q25yaw2bEOQh7RMG1.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Cabin in the Woods</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1259521&title=The Cabin in the Woods&year=2012</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/zZZe5wn0udlhMtdlDjN4NB72R6e.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Crazies</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0455407&title=The Crazies&year=2010</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fiJFGiqXUelHJ9Ms8mtFOCsFf4B.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Mist</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0884328&title=The Mist&year=2007</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/1CvJ6diBACKPVGOpcWuY4XPQdqX.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Day</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1756799&title=The Day&year=2011</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/zNFCkFmgI4Dnv3UpC0lLM7jWhYU.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Day After Tomorrow</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0319262&title=The Day After Tomorrow&year=2004</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/mr1GBm0CXFA2lBKvl4voCYfkfL0.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Day the Earth Stood Still</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0970416&title=The Day the Earth Stood Still&year=2008</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/3744nDNrKIFcgXEDL2WDkqYc7vF.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Happening</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0949731&title=The Happening&year=2008</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/v1Cw6WaCjNqInpAzUwbXB4LGgoX.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Reign of Fire</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0253556&title=Reign of Fire&year=2002</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vZVXCj3jXzIPJUHLaQohzt2uTM3.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Sunshine</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0448134&title=Sunshine&year=2007</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/8kX6xmEwz0RpEJkeWjXTkxbOCAp.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Birds</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0056869&title=The Birds&year=1963</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/z0iYrJ6GsAMP3abOha7uGMuc5kZ.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Dogma</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0120655&title=Dogma&year=1999</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/oxhHl2YokTqcP44QK5tiTgjgLgk.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Cockneys vs Zombies</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1362058&title=Cockneys vs Zombies&year=2012</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/1F2owdjCH1vnRj5zjAvPeR4bsGl.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Zombieland</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1156398&title=Zombieland&year=2009</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Night of the Living Dead</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0063350&title=Night of the Living Dead&year=1968</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/rSBkU4g4uvZQIMOSpvrmvR4VwhA.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Dawn of the Dead</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0363547&title=Dawn of the Dead&year=2004</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/iBLQATsIkv005fvIhhbM4MvqhYp.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Immortals</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1253864&title=Immortals&year=2011</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/swJ3VuuSMJUDoi899VuXG5OqmPG.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Reaping</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0444682&title=The Reaping&year=2007</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/bDEYbxcaJvRC30xScThv1b7BqNw.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Fantastic Four</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0120667&title=Fantastic Four&year=2005</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/8HLQLILZLhDQWO6JDpvY6XJLH75.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Fifth Element</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0119116&title=The Fifth Element&year=1997</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Hitchhiker s Guide to the Galaxy</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0371724&title=The Hitchhiker s Guide to the Galaxy&year=2005</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/tcrkbs4ezEklmvt39b01881P6CN.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>In the Mouth of Madness</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0113409&title=In the Mouth of Madness&year=1995</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/yzX7IHfnET3rQQakQ1yKvD9ltXA.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Knowing</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0448011&title=Knowing&year=2009</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/nO9gTGDNdYnPr9ILKNQmk6EVTVR.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Terminator 2 Judgment Day</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0103064&title=Terminator 2 Judgment Day&year=1991</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/weVXMD5QBGeQil4HEATZqAkXeEc.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Matrix</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0133093&title=The Matrix&year=1999</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>12 Monkeys</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0114746&title=12 Monkeys&year=1995</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/2F9KcDGZbEdaQN5jV9ziyRZYY7u.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Miracle Mile</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0097889&title=Miracle Mile&year=1988</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/w7mTqzCBARrPechNzM5cQpuhruW.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Time of the Wolf</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0324197&title=Time of the Wolf&year=2003</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/10tjiBzMlvGYPpNpjHUOzMKNC6P.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>A Boy and His Dog</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0072730&title=A Boy and His Dog&year=1975</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/s4vkM7B6Ss7IUgkruTzxnrXnakq.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Day After</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0085404&title=The Day After&year=1983</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6ZISRUN27tpAEstCuGRKsH7Wwxe.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Rapture</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0102757&title=The Rapture&year=1991</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/j36g0oeqS2hk5rrxVZvAn4Erwvx.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Dr Strangelove or How I Learned to Stop Worrying and Love the Bomb</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0057012&title=Dr Strangelove or How I Learned to Stop Worrying and Love the Bomb&year=1964</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gHm96BRW4GoI339rF1vYoYTB6Qe.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>WALL E</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0910970&title=WALL E&year=2008</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/3g8vyePqVatTaUSnrNnrrwguhxM.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Melancholia</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1527186&title=Melancholia&year=2011</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fMneszMiQuTKY8JUXrGGB5vwqJf.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>On the Beach</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0053137&title=On the Beach&year=1959</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/lTDuj5zalrI0fpQel7UfPHTexTK.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Last Wave</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0076299&title=The Last Wave&year=1977</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7UwdJ0EMXirUuNFaohfK023Nuyr.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Invasion of the Body Snatchers</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0077745&title=Invasion of the Body Snatchers&year=1978</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/dIjwNLwbs3ySlBNmNf6EE0cFIY8.jpg</thumbnail>
+</plugin>
