@@ -1,0 +1,45 @@
+<plugin>
+	<name>A Nightmare on Elm Street</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0087800&title=A Nightmare on Elm Street&year=1984</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/wGTpGGRMZmyFCcrY2YoxVTIBlli.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>A Nightmare on Elm Street 2 Freddy s Revenge</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0089686&title=A Nightmare on Elm Street 2 Freddy s Revenge&year=1985</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/rvAmOv0sZcoQCyJjHPQN4wU8ut4.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>A Nightmare on Elm Street 3 Dream Warriors</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0093629&title=A Nightmare on Elm Street 3 Dream Warriors&year=1987</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qbtZewU6EGvxi8yFVzwZ31NijLX.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>A Nightmare on Elm Street 4 The Dream Master</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0095742&title=A Nightmare on Elm Street 4 The Dream Master&year=1988</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/boStYG7jKdoIZTduiOOsUVknD13.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>A Nightmare on Elm Street 5 The Dream Child</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0097981&title=A Nightmare on Elm Street 5 The Dream Child&year=1989</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/kizvpgXQfrAgN8FhOd87LbKk6kO.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Freddy s Dead The Final Nightmare</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0101917&title=Freddy s Dead The Final Nightmare&year=1991</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/doyiGwpxbBs4G2og9G8gV7ZKoih.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>New Nightmare</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0111686&title=New Nightmare&year=1994</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/eN3UZUYapJ2CJCD9dN0LUZLouKa.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Freddy vs Jason</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0329101&title=Freddy vs Jason&year=2003</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fhnWQDd05qEqtvZFwCwzmnVZYQy.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>A Nightmare on Elm Street</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1179056&title=A Nightmare on Elm Street&year=2010</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/4W2GvVM89Xu4HTxUbun4AO0yOAJ.jpg</thumbnail>
+</plugin>
