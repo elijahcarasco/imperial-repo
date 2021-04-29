@@ -1,0 +1,25 @@
+<plugin>
+	<name>Predator 2</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0100403&title=Predator 2&year=1990</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7OAAsKvYwEq23ppBSq8NfJ0iUuo.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Alien vs Predator</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0370263&title=Alien vs Predator&year=2004</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/2DKoPom57PVtJWcJlq7bS7JpahU.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Aliens vs Predator Requiem</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0758730&title=Aliens vs Predator Requiem&year=2007</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/5iTwPDNtvK6ZZF607BHBbU3HO0B.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Predators</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1424381&title=Predators&year=2010</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gsnUhWMYLSD8VZS7nrMT9mj9BYr.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Predator</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt3829266&title=The Predator&year=2018</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg</thumbnail>
+</plugin>
