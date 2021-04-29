@@ -1,0 +1,500 @@
+<plugin>
+	<name>The Silence of the Lambs</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0102926&title=The Silence of the Lambs&year=1991</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/rplLJ2hPcOQmkFhTqUte0MkEaO2.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Dr Strangelove or How I Learned to Stop Worrying and Love the Bomb</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0057012&title=Dr Strangelove or How I Learned to Stop Worrying and Love the Bomb&year=1964</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gHm96BRW4GoI339rF1vYoYTB6Qe.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Godfather</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0068646&title=The Godfather&year=1972</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/3bhkrj58Vtu7enYsRolD1fZdja1.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Great Dictator</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0032553&title=The Great Dictator&year=1940</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/1QpO9wo7JWecZ4NiBuu625FiY1j.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Godfather Part II</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0071562&title=The Godfather Part II&year=1974</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Wall Street</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0094291&title=Wall Street&year=1987</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/2tQYq9ntzn2dEwDIGLBSipYPenv.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Dr Jekyll and Mr Hyde</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0022835&title=Dr Jekyll and Mr Hyde&year=1931</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/mZtQORzQWkCSqeeHApH6vJDA1D2.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Misery</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0100157&title=Misery&year=1990</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Bad and the Beautiful</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0044391&title=The Bad and the Beautiful&year=1952</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/70mMyM9R0QT19AGWRwUq7Ms6u8C.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Taxi Driver</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0075314&title=Taxi Driver&year=1976</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ekstpH614fwDX8DUln1a2Opz0N8.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Manchurian Candidate</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0056218&title=The Manchurian Candidate&year=1962</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/2xQ856kd9hw6bB3OnusGyTvvkwB.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>All the King s Men</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0041113&title=All the King s Men&year=1949</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/flvbh5w7AyIVvtp8trkzyG2j5k4.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Fatal Attraction</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0093010&title=Fatal Attraction&year=1987</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/jks7L7ILn78f49f3jDg2i9EOpeX.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Murder, Inc</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0054102&title=Murder, Inc&year=1960</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/9FYMprFMIeLSBRfEwDVciKQCuVG.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Exorcist</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0070047&title=The Exorcist&year=1973</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/4ucLGcXVVSVnsfkGtbLY4XAius8.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Dick Tracy</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0099422&title=Dick Tracy&year=1990</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/xY6D5Ti44xuwzCkmf6Ygbj86BkP.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Marathon Man</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0074860&title=Marathon Man&year=1976</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/uPNgubSiri2yvBQRPtP77ViYjN.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>No Country for Old Men</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0477348&title=No Country for Old Men&year=2007</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6d5XOczc226jECq0LIX0siKtgHR.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Sunset Blvd</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0043014&title=Sunset Blvd&year=1950</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/zt8aQ6ksqK6p1AopC5zVTDS9pKT.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Unforgiven</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0105695&title=Unforgiven&year=1992</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/yKyLJmRAtyXEEYKOvPhKHXIcPq9.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Network</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0074958&title=Network&year=1976</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/l3opUgZaoRyu9O1sBRJvsArhcaz.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Bad Seed</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0048977&title=The Bad Seed&year=1956</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/iAgSkpZslQ2s3onL9TaHbyWygtC.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Double Indemnity</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0036775&title=Double Indemnity&year=1944</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/3FxPFG4IEg1kX00oAJn7L06GoCS.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>What Ever Happened to Baby Jane</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0056687&title=What Ever Happened to Baby Jane&year=1962</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/u8iJz5KqSPuTFE7yPbJwyzF0zHs.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Kiss of Death</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0039536&title=Kiss of Death&year=1947</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/1fHri8HZoFdxvCigFTyf60cJ2J2.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Cat Ballou</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0059017&title=Cat Ballou&year=1965</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fSebGYTxVrHXE4y3Su5uwJSEtni.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Usual Suspects</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0114814&title=The Usual Suspects&year=1995</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/bUPmtQzrRhzqYySeiMpv7GurAfm.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>In the Line of Fire</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0107206&title=In the Line of Fire&year=1993</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/3NvOFpmyECI3DNExYMtFIRcGMsu.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Street Smart</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0094056&title=Street Smart&year=1987</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7aPwpPjrEozWWBr4fZEwmFeTEh5.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Godfather</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0068646&title=The Godfather&year=1972</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/3bhkrj58Vtu7enYsRolD1fZdja1.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>One Flew Over the Cuckoo s Nest</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0073486&title=One Flew Over the Cuckoo s Nest&year=1975</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/3jcbDmRFiQ83drXNOvRDeKHxS0C.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Cape Fear</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0101540&title=Cape Fear&year=1991</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/meJZAAuVcjic2ipvbOPz5UlE4P9.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>A Few Good Men</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0104257&title=A Few Good Men&year=1992</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/rLOk4z9zL1tTukIYV56P94aZXKk.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>On the Waterfront</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0047296&title=On the Waterfront&year=1954</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/v1RtJ1qR4v9nrnfoBVBl6hjTW9.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Training Day</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0139654&title=Training Day&year=2001</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/sEQansIwI6SfNSpop3N0EBZayWk.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Network</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0074958&title=Network&year=1976</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/l3opUgZaoRyu9O1sBRJvsArhcaz.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>A Fish Called Wanda</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0095159&title=A Fish Called Wanda&year=1988</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/hkSGFNVfEEUXFCxRZDITFHVhUlu.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>A Soldier s Story</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0088146&title=A Soldier s Story&year=1984</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/aty7kaYU1MK0Io3gDfcno3Iumge.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>There Will Be Blood</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0469494&title=There Will Be Blood&year=2007</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fa0RDkAlCec0STeMNAhPaF89q6U.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Godfather</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0068646&title=The Godfather&year=1972</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/3bhkrj58Vtu7enYsRolD1fZdja1.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>West Side Story</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0055614&title=West Side Story&year=1961</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vCtErvzF6S93DtoD7URwy9Mr7oe.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Dark Knight</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0468569&title=The Dark Knight&year=2008</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qJ2tW6WMUDux911r6m7haRef0WH.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>A Streetcar Named Desire</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0044081&title=A Streetcar Named Desire&year=1951</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Primal Fear</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0117381&title=Primal Fear&year=1996</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Stunt Man</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0081568&title=The Stunt Man&year=1980</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+</plugin>
+<plugin>
+	<name>The Hustler</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0054997&title=The Hustler&year=1961</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/aSwY6gsACNgtoKpXFPwDovfWF1m.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Gangs of New York</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0217505&title=Gangs of New York&year=2002</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/lemqKtcCuAano5aqrzxYiKC8kkn.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Verdict</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0084855&title=The Verdict&year=1982</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/iYEuFP1bpj5yOenKliiRFcNO3VE.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Sexy Beast</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0203119&title=Sexy Beast&year=2001</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/l8lQFhRzZo5pG8ZA7PokbXqOmG6.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Godfather Part II</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0071562&title=The Godfather Part II&year=1974</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>On the Waterfront</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0047296&title=On the Waterfront&year=1954</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/v1RtJ1qR4v9nrnfoBVBl6hjTW9.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Inglourious Basterds</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0361748&title=Inglourious Basterds&year=2009</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Prizzi s Honor</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0089841&title=Prizzi s Honor&year=1985</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/dRUftPJR0M6yMAOlwlwaPlB9p86.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Girl, Interrupted</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0172493&title=Girl, Interrupted&year=1999</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ssaiAUIpJ2ciOORf6jXYEze7Maf.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Michael Clayton</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0465538&title=Michael Clayton&year=2007</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/xC1zIfZ7DsI4ainuqnOBy3WiE4y.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Godfather Part II</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0071562&title=The Godfather Part II&year=1974</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Grifters</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0099703&title=The Grifters&year=1990</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/zMpGfkiDIdg5bB7WGcAT3Fdrfpt.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Godfather Part III</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0099674&title=The Godfather Part III&year=1990</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/lm3pQ2QoQ16pextRsmnUbG2onES.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Platoon</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0091763&title=Platoon&year=1986</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Married to the Mob</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0095593&title=Married to the Mob&year=1988</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gkOsxv1RvV5smRnm6wrmn2wDXyZ.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Portrait of a Lady</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0117364&title=The Portrait of a Lady&year=1996</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/v2tN3LKXOlXrL2ZvoGPWGmqkLz7.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Notes on a Scandal</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0465551&title=Notes on a Scandal&year=2006</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ymFybaA0r7MpwWnmUCFHYAT6Djb.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Little Children</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0404203&title=Little Children&year=2006</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/so9xla7b7WfFiarDwOukhQpRuyd.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Field</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0099566&title=The Field&year=1990</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ppF5pUheNoL0EPuGRIEnHz1ewp7.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Cooler</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0318374&title=The Cooler&year=2003</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/lDqBhWhejdt9Umt5tYjqGXYF73O.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Lovely Bones</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0380510&title=The Lovely Bones&year=2009</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/q037kF34JCHKeoVSNVrv21Tj6Im.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Road to Perdition</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0257044&title=Road to Perdition&year=2002</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/loSpBeirRfTPJ3cMIqpQArstGhh.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Bullets Over Broadway</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0109348&title=Bullets Over Broadway&year=1994</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/pk1FEwQNn1SswKNhD3jPrnb5OLX.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>A History of Violence</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0399146&title=A History of Violence&year=2005</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/rrc6GiAKHDrUjp8OmdVng9hRWBn.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Affliction</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0118564&title=Affliction&year=1998</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/nQDPkI4V3t8bZvwSoXhuyI2KzW.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Town</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0840361&title=The Town&year=2010</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Precious</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0929632&title=Precious&year=2009</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/60wotd9fKVUGidpClFAyXWV8TKc.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Animal Kingdom</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1313092&title=Animal Kingdom&year=2010</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/oiS0dIv3WyX1v7vTCF51uWHTGCF.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Doubt</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0918927&title=Doubt&year=2008</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/9lypT2ghNuUPYVJf66oe4fKvUqI.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Sweeney Todd The Demon Barber of Fleet Street</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0408236&title=Sweeney Todd The Demon Barber of Fleet Street&year=2007</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gAW4J1bkRjZKmFsJsIiOBASeoAp.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Sleuth</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0069281&title=Sleuth&year=1972</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/avFuamkwshZr9FURRD9HZPAGtkQ.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Maltese Falcon</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0033870&title=The Maltese Falcon&year=1941</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/wcGLnRsuKyCYg3WLXQqIuB0lsJB.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Gaslight</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0036855&title=Gaslight&year=1944</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gQXHGJRdIQ2PBpIskIxGoLBSTX5.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Carrie</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0074285&title=Carrie&year=1976</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/uc3OvgmbnYaS5Y0BOjSmC1EmSz1.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Rebecca</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0032976&title=Rebecca&year=1940</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/3Gla0nxHboX3nxQzaU4SoqOtTjh.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Working Girl</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0096463&title=Working Girl&year=1988</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/9oK70JJZZIAstEsbE5TDqbr95Ge.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Notorious</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0038787&title=Notorious&year=1946</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/4RERYb1NIQrJHYY5e8nUlYM7t2z.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Devil and Daniel Webster</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0033532&title=The Devil and Daniel Webster&year=1941</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/2GUZ0Yg3DKlZpc3HEF5qJz7KqD5.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Ruling Class</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0069198&title=The Ruling Class&year=1972</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6f7rJ6Ux5GFww24LdDbCYzJeuks.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Mystic River</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0327056&title=Mystic River&year=2003</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/e2VNohx5jb7I6HUamCuGhKvzXDR.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Prizzi s Honor</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0089841&title=Prizzi s Honor&year=1985</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/dRUftPJR0M6yMAOlwlwaPlB9p86.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Casino</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0112641&title=Casino&year=1995</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/4TS5O1IP42bY2BvgMxL156EENy.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Bridge on the River Kwai</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0050212&title=The Bridge on the River Kwai&year=1957</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fuWtWy49Dbzz9UAnIHhKA0Z5LuT.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Shane</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0046303&title=Shane&year=1953</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fPCjyrZK1evjm2vocMpsHZ0xFOa.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Sudden Fear</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0045205&title=Sudden Fear&year=1952</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/kiqznmJAepyWWAI66SWiFQeTaMf.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Johnny Eager</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0033774&title=Johnny Eager&year=1941</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ldVuUZ9SOp5bsdbBUrzAqXdmTOe.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Mr Smith Goes to Washington</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0031679&title=Mr Smith Goes to Washington&year=1939</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qZfL7UDj6KtkvAAQ5sv0v8ITKyM.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Angels with Dirty Faces</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0029870&title=Angels with Dirty Faces&year=1938</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gFZUu7T0larg57MtCA3PZwiskUZ.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>All About Eve</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0042192&title=All About Eve&year=1950</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6numIZH6uR3NlJgY9m7nGH0jhs.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Little Foxes</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0033836&title=The Little Foxes&year=1941</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/of0OPENy4HP5PWGtU5hLVpkZqJ3.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Mildred Pierce</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0037913&title=Mildred Pierce&year=1945</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/1CxM5dNRG3m3woa3cEgTCJwi1yG.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Pulp Fiction</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0110912&title=Pulp Fiction&year=1994</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/x1QZHSq9AzreIVbsp8VgYemAjV0.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Dangerous Liaisons</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0094947&title=Dangerous Liaisons&year=1988</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/5MEl1xrbM93zjpFgS3sHJ2SlIFm.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Treasure of the Sierra Madre</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0040897&title=The Treasure of the Sierra Madre&year=1948</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qvExr87oqKHvNiFRK5VqDoZrS5D.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Truman Show</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0120382&title=The Truman Show&year=1998</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/dOmxN9xhLITi43j2xGFEcsgv7QM.jpg</thumbnail>
+</plugin>

@@ -7,26 +7,26 @@
 
 
 <plugin>
-<name>[COLOR white]UFC Random Replays[/COLOR](Real Debrid Needed)</name>
+<name>[COLOR crimson]**UFC Random Replays**[/COLOR](Real Debrid Needed)</name>
 <link>plugin://script.module.symbiotor?search=general&title=UFC</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/21fe3s52PLL.png</thumbnail>
 </plugin>
 
 
 <plugin>
-<name>[COLOR white]MLB Random Replays[/COLOR](Real Debrid Needed)</name>
+<name>[COLOR crimson]**MLB Random Replays**[/COLOR](Real Debrid Needed)</name>
 <link>plugin://script.module.symbiotor?search=general&title=mlb</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51CySnnnoUL.png</thumbnail>
 </plugin>
 
 <plugin>
-<name>[COLOR white]NFL Random Replays[/COLOR](Real Debrid Needed)</name>
+<name>[COLOR crimson]**NFL Random Replays**[/COLOR](Real Debrid Needed)</name>
 <link>plugin://script.module.symbiotor?search=general&title=nfl</link>
 <thumbnail>https://jesuitnews.com/wp-content/uploads/2020/04/154E0A61-0313-4C29-A51F-894706518B9B.png</thumbnail>
 </plugin>
 
 <plugin>
-<name>[COLOR white]NBA Random Replays[/COLOR](Real Debrid Needed)</name>
+<name>[COLOR crimson]**NBA Random Replays**[/COLOR](Real Debrid Needed)</name>
 <link>plugin://script.module.symbiotor?search=general&title=nba</link>
 <thumbnail>https://cdn.iconscout.com/icon/free/png-512/nba-282876.png</thumbnail>
 </plugin>
@@ -38,61 +38,67 @@
  </dir>
  
  <dir>
-<title>Lord of the Rings Collection</title>
+<title>[COLOR crimson]**Lord of the Rings Collection**[/COLOR]</title>
 <link>https://raw.githubusercontent.com/elijahcarasco/imperial-repo/main/txt/lotr.xml</link>
 <thumbnail>https://i.pinimg.com/736x/ad/4a/b3/ad4ab33eb3294cf24831d4d1e397c9e0.jpg</thumbnail>
 <fanart>https://wallpaperaccess.com/full/803365.jpg</fanart>
 </dir>
 
 <dir>
-<title>2000s Movies</title>
+<title>[COLOR crimson]**2000s Movies**[/COLOR]</title>
 <link>https://raw.githubusercontent.com/elijahcarasco/imperial-repo/main/txt/2000_s.xml</link>
 <thumbnail>https://cdns-images.dzcdn.net/images/cover/d845785ee5f4151f514824c44d1713a2/264x264.jpg</thumbnail>
 <fanart>https://cutewallpaper.org/21/2000s-wallpaper/RETRO-2000s-Aesthetic-Mixed-Ratio-Grid-Practice.jpg</fanart>
 </dir>
 
 <dir>
-<title>Nightmare on Elmstreet Collection</title>
+<title>[COLOR crimson]**Nightmare on Elmstreet Collection**[/COLOR]</title>
 <link>https://raw.githubusercontent.com/elijahcarasco/imperial-repo/main/txt/nightmare_on_elmstreet.xml</link>
 <thumbnail>https://i.pinimg.com/564x/1e/fa/50/1efa5025366c34dc9a8d1c17dedbc5bb.jpg</thumbnail>
 <fanart>https://wallpaperaccess.com/full/2019443.jpg</fanart>
 </dir>
 
 <dir>
-<title>Nerdy Movies</title>
+<title>[COLOR crimson]**Nerdy Movies**[/COLOR]</title>
 <link>https://raw.githubusercontent.com/elijahcarasco/imperial-repo/main/txt/Essential_Nerd_Movies.xml</link>
 <thumbnail>https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/fa/e5/67/fae56759-b37f-a947-ee80-6090c08513b3/source/512x512bb.jpg</thumbnail>
 <fanart>https://i.pinimg.com/originals/82/d0/fa/82d0face83c83bb30b03618a7467527d.jpg</fanart>
 </dir>
 
 <dir>
-<title>Werewolf Movies</title>
+<title>[COLOR crimson]**Werewolf Movies**[/COLOR]</title>
 <link>https://raw.githubusercontent.com/elijahcarasco/imperial-repo/main/txt/Werewolf_Movies.xml</link>
 <thumbnail>https://cdn6.aptoide.com/imgs/3/a/9/3a99369782d9258882d43428646b6653_icon.png</thumbnail>
 <fanart>https://wallpapercave.com/wp/WkxUc7Q.jpg</fanart>
 </dir>
 
 <dir>
-<title>Romantic Comedies</title>
+<title>[COLOR crimson]**Romantic Comedies**[/COLOR]</title>
 <link>https://raw.githubusercontent.com/elijahcarasco/imperial-repo/main/txt/romance_comedies.xml</link>
 <thumbnail>https://cdn6.aptoide.com/imgs/9/4/7/947b374d271db133979760caf4e39711_icon.png</thumbnail>
 <fanart>https://images.wallpaperscraft.com/image/lock_heart_love_116319_1920x1080.jpg</fanart>
 </dir>
 
 <dir>
-<title>End of the World Movies</title>
+<title>[COLOR crimson]**End of the World Movies**[/COLOR]</title>
 <link>https://raw.githubusercontent.com/elijahcarasco/imperial-repo/main/txt/End_of_world.xml</link>
 <thumbnail>https://cdn6.aptoide.com/imgs/4/8/1/481a6be1116c2c3e922dc2c3228876f5_icon.png</thumbnail>
 <fanart>https://wallpapercave.com/wp/Vm1sA0F.jpg</fanart>
 </dir>
 
 <dir>
-<title>Medical Horror Movies</title>
+<title>[COLOR crimson]**Medical Horror Movies**[/COLOR]</title>
 <link>https://raw.githubusercontent.com/elijahcarasco/imperial-repo/main/txt/Medical_Horror.xml</link>
 <thumbnail>https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/f2/eb/22/f2eb223a-e384-ff69-68b5-661b3662a713/source/512x512bb.jpg</thumbnail>
 <fanart>https://wallup.net/wp-content/uploads/2019/09/40164-biohazard-waste-warning-sign-needles-text-dark-horror-blood.png</fanart>
 </dir>
 
+<dir>
+<title>[COLOR crimson]**Most Evil Characters**[/COLOR]</title>
+<link>https://raw.githubusercontent.com/elijahcarasco/imperial-repo/main/txt/101_Most_evil_Characters.xml</link>
+<thumbnail>https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/98/d6/3c/98d63cc1-b752-63f6-ad04-3f443ca7a0a8/source/512x512bb.jpg</thumbnail>
+<fanart>https://i.imgur.com/dgPvb8V.jpg</fanart>
+</dir>
 
 
 </items>
