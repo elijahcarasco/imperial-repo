@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.prototype" name="Prototype-Repo" version="0.0.1" provider-name="Cable">
-	<extension point="xbmc.addon.repository" name="repo name">
+<addon id="repository.prototype" name="Prototype-Repo" version="1.0.5" provider-name="Cable">
+	<extension point="xbmc.addon.repository" name="Prototype-Repo">
 		<dir>
-			<info compressed="false">addons xml url</info>
-			<checksum>url to addons.xml.md5</checksum>
-			<datadir zip="true">url to zips</datadir>
+			<info compressed="false">https://raw.githubusercontent.com/elijahcarasco/prototype/main/plugins/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/elijahcarasco/prototype/main/plugins/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/elijahcarasco/prototype/main/plugins</datadir>
 		</dir>
 		<dir>
 			<info compressed="false">http://cf368ff.online-server.cloud/symbo/par/zips/addons.xml</info>
