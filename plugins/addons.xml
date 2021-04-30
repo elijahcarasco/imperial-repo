@@ -19,7 +19,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.prototype" version="0.0.4" name="[COLORcrimson]Prototype[/COLOR]" provider-name="Cable">
+<addon id="plugin.video.prototype" version="0.0.5" name="[COLORcrimson]Prototype[/COLOR]" provider-name="Cable">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.resolveurl" version="3.0.0"/>
