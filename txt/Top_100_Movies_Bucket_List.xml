@@ -1,0 +1,500 @@
+<plugin>
+	<name>The Shawshank Redemption</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0111161&title=The Shawshank Redemption&year=1994</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Godfather</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0068646&title=The Godfather&year=1972</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/3bhkrj58Vtu7enYsRolD1fZdja1.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Godfather Part II</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0071562&title=The Godfather Part II&year=1974</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Dark Knight</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0468569&title=The Dark Knight&year=2008</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qJ2tW6WMUDux911r6m7haRef0WH.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>12 Angry Men</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0050083&title=12 Angry Men&year=1957</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ppd84D2i9W8jXmsyInGyihiSyqz.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Schindler s List</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0108052&title=Schindler s List&year=1993</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Lord of the Rings The Return of the King</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0167260&title=The Lord of the Rings The Return of the King&year=2003</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Pulp Fiction</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0110912&title=Pulp Fiction&year=1994</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/x1QZHSq9AzreIVbsp8VgYemAjV0.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Good, the Bad and the Ugly</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0060196&title=The Good, the Bad and the Ugly&year=1966</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/eWivEg4ugIMAd7d4uWI37b17Cgj.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Fight Club</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0137523&title=Fight Club&year=1999</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Joker</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt7286456&title=Joker&year=2019</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Lord of the Rings The Fellowship of the Ring</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0120737&title=The Lord of the Rings The Fellowship of the Ring&year=2001</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Forrest Gump</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0109830&title=Forrest Gump&year=1994</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/h5J4W4veyxMXDMjeNxZI46TsHOb.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Inception</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1375666&title=Inception&year=2010</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Star Wars Episode V The Empire Strikes Back</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0080684&title=Star Wars Episode V The Empire Strikes Back&year=1980</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7BuH8itoSrLExs2YZSsM01Qk2no.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Lord of the Rings The Two Towers</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0167261&title=The Lord of the Rings The Two Towers&year=2002</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Matrix</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0133093&title=The Matrix&year=1999</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>One Flew Over the Cuckoo s Nest</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0073486&title=One Flew Over the Cuckoo s Nest&year=1975</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/3jcbDmRFiQ83drXNOvRDeKHxS0C.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Goodfellas</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0099685&title=Goodfellas&year=1990</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6QMSLvU5ziIL2T6VrkaKzN2YkxK.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Seven Samurai</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0047478&title=Seven Samurai&year=1954</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/1wCRVLGI7SoTOoDRzWlbt2dMDuy.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Seven</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0114369&title=Seven&year=1995</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/69Sns8WoET6CfaYlIkHbla4l7nC.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>City of God</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0317248&title=City of God&year=2002</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Life Is Beautiful</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0118799&title=Life Is Beautiful&year=1997</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/74hLDKjD5aGYOotO6esUVaeISa2.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Silence of the Lambs</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0102926&title=The Silence of the Lambs&year=1991</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/rplLJ2hPcOQmkFhTqUte0MkEaO2.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Star Wars Episode IV A New Hope</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0076759&title=Star Wars Episode IV A New Hope&year=1977</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>It s a Wonderful Life</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0038650&title=It s a Wonderful Life&year=1946</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Saving Private Ryan</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0120815&title=Saving Private Ryan&year=1998</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/1wY4psJ5NVEhCuOYROwLH2XExM2.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Spirited Away</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0245429&title=Spirited Away&year=2001</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Green Mile</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0120689&title=The Green Mile&year=1999</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/velWPhVMQeQKcxggNEU8YmIo52R.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Leon</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0110413&title=Leon&year=1994</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/wHqGb8J6tXBVwjqWooGMtNEjs2A.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Harakiri</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0056058&title=Harakiri&year=1962</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fRqVjso3rdEcxZHXWE2xazDAtjI.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Interstellar</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0816692&title=Interstellar&year=2014</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Usual Suspects</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0114814&title=The Usual Suspects&year=1995</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/bUPmtQzrRhzqYySeiMpv7GurAfm.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Lion King</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0110357&title=The Lion King&year=1994</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>American History X</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0120586&title=American History X&year=1998</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/c2gsmSQ2Cqv8zosqKOCwRS0GFBS.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Back to the Future</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0088763&title=Back to the Future&year=1985</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/xlBivetfrtF84Yx0zISShnNtHYe.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Pianist</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0253474&title=The Pianist&year=2002</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/3DzePKMbLMIM636S6syCy3cLPqj.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Modern Times</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0027977&title=Modern Times&year=1936</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7uoiKOEjxBBW0AgDGQWrlfGQ90w.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Terminator 2 Judgment Day</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0103064&title=Terminator 2 Judgment Day&year=1991</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/weVXMD5QBGeQil4HEATZqAkXeEc.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Untouchable</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1675434&title=Untouchable&year=2011</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ttx4GQl0azO6NJFWj4XNZCQOY7S.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Psycho</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0054215&title=Psycho&year=1960</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/5j5tdV8tMTy7FBdSNiYxp9Fj1Or.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Gladiator</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0172495&title=Gladiator&year=2000</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ehGpN04mLJIrSnxcZBMvHeG0eDc.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>City Lights</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0021749&title=City Lights&year=1931</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/bXNvzjULc9jrOVhGfjcc64uKZmZ.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Departed</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0407887&title=The Departed&year=2006</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/kWWAt2FMRbqLFFy8o5R4Zr8cMAb.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Whiplash</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt2582802&title=Whiplash&year=2014</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/E1fpfU9cMCgFYL3QPvJr3vt20X.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Once Upon a Time in the West</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0064116&title=Once Upon a Time in the West&year=1968</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qbYgqOczabWNn2XKwgMtVrntD6P.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Prestige</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0482571&title=The Prestige&year=2006</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gcphM7ZLxS5HPeCZgjZobfz907x.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Avengers Endgame</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt4154796&title=Avengers Endgame&year=2019</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Casablanca</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0034583&title=Casablanca&year=1942</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Grave of the Fireflies</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0095327&title=Grave of the Fireflies&year=1988</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fs9rvMCDCqZMr6AGciakP0Ds7og.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Rear Window</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0047396&title=Rear Window&year=1954</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qitnZcLP7C9DLRuPpmvZ7GiEjJN.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Cinema Paradiso</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0095765&title=Cinema Paradiso&year=1988</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/8SRUfRUi6x4O68n0VCbDNRa6iGL.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Alien</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0078748&title=Alien&year=1979</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Raiders of the Lost Ark</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0082971&title=Raiders of the Lost Ark&year=1981</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ceG9VzoRAVGwivFU403Wc3AHRys.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Memento</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0209144&title=Memento&year=2000</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/yuNs09hvpHVU1cBTCAk9zxsL2oW.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Apocalypse Now</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0078788&title=Apocalypse Now&year=1979</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Great Dictator</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0032553&title=The Great Dictator&year=1940</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/1QpO9wo7JWecZ4NiBuu625FiY1j.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Lives of Others</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0405094&title=The Lives of Others&year=2006</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/5BCyeLJHPcRwhu0YaRqUzw00JJ4.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Avengers Infinity War</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt4154756&title=Avengers Infinity War&year=2018</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Django Unchained</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1853728&title=Django Unchained&year=2012</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/4E4TTsCXVFyhBtYu9fKy0gIT3Ih.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Spider Man Into the Spider Verse</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt4633694&title=Spider Man Into the Spider Verse&year=2018</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Shining</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0081505&title=The Shining&year=1980</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/b6ko0IKC8MdYBBPkkA1aBPLe2yz.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Paths of Glory</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0050825&title=Paths of Glory&year=1957</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/kHMZTjBH99GghtFF9rjA7d7IylH.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>WALL E</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0910970&title=WALL E&year=2008</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/3g8vyePqVatTaUSnrNnrrwguhxM.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Sunset Blvd</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0043014&title=Sunset Blvd&year=1950</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/zt8aQ6ksqK6p1AopC5zVTDS9pKT.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Dr Strangelove or How I Learned to Stop Worrying and Love the Bomb</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0057012&title=Dr Strangelove or How I Learned to Stop Worrying and Love the Bomb&year=1964</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gHm96BRW4GoI339rF1vYoYTB6Qe.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Princess Mononoke</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0119698&title=Princess Mononoke&year=1997</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/pdtzEreKvKAlqa2YEBaGwiA45V8.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Oldboy</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0364569&title=Oldboy&year=2003</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Witness for the Prosecution</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0051201&title=Witness for the Prosecution&year=1957</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/bCj4EfuehAlgBwVd3diyWyhuuau.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Dark Knight Rises</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1345836&title=The Dark Knight Rises&year=2012</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vzvKcPQ4o7TjWeGIn0aGC9FeVNu.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Once Upon a Time in America</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0087843&title=Once Upon a Time in America&year=1984</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Parasite</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt6751668&title=Parasite&year=2019</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Aliens</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0090605&title=Aliens&year=1986</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>American Beauty</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0169547&title=American Beauty&year=1999</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6MNwC101wSEsDyxTJBGXsgIMlmh.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Coco</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt2380307&title=Coco&year=2017</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Your Name</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt5311514&title=Your Name&year=2016</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/q719jXXEzOoYaps6babgKnONONX.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Braveheart</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0112573&title=Braveheart&year=1995</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/or1gBugydmjToAEq7OZY0owwFk.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Das Boot</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0082096&title=Das Boot&year=1981</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/eSdji6BTfeCzC9SHUXwo4UFUbT7.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>3 Idiots</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1187043&title=3 Idiots&year=2009</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/k1iWMypGjk1b59oCHLtyfd4hw99.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Like Stars on Earth</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0986264&title=Like Stars on Earth&year=2007</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fwXhw9bERqKrJfJK6WGakPIh3FS.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Star Wars Return of the Jedi</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0086190&title=Star Wars Return of the Jedi&year=1983</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/mDCBQNhR6R0PVFucJl0O4Hp5klZ.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Toy Story</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0114709&title=Toy Story&year=1995</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Reservoir Dogs</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0105236&title=Reservoir Dogs&year=1992</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/AjTtJNumZyUDz33VtMlF1K8JPsE.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Amadeus</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0086879&title=Amadeus&year=1984</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/tsqcwBp1jYZdcceXXoVEby0dZkt.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Dangal</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt5074352&title=Dangal&year=2016</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/cJRPOLEexI7qp2DKtFfCh7YaaUG.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Good Will Hunting</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0119217&title=Good Will Hunting&year=1997</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/bABCBKYBK7A5G1x0FzoeoNfuj2.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Inglourious Basterds</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0361748&title=Inglourious Basterds&year=2009</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>M</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0022100&title=M&year=1931</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6hg2UClwHGnBojemFrLgiF1WK8A.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Requiem for a Dream</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0180093&title=Requiem for a Dream&year=2000</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>2001 A Space Odyssey</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0062622&title=2001 A Space Odyssey&year=1968</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Vertigo</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0052357&title=Vertigo&year=1958</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Eternal Sunshine of the Spotless Mind</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0338013&title=Eternal Sunshine of the Spotless Mind&year=2004</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/xFuIVB1aPb29vq0G0X9E5p7LuhN.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Citizen Kane</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0033467&title=Citizen Kane&year=1941</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/zO5OI25cieQ6ncpvGOD4U72vi1o.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Full Metal Jacket</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0093058&title=Full Metal Jacket&year=1987</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Hunt</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt2106476&title=The Hunt&year=2012</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/jkixsXzRh28q3PCqFoWcf7unghT.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>North by Northwest</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0053125&title=North by Northwest&year=1959</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/9pf8CuIT64cFvsyocWOjbKGcXmt.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>A Clockwork Orange</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0066921&title=A Clockwork Orange&year=1971</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/4sHeTAp65WrSSuc05nRBKddhBxO.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Snatch</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0208092&title=Snatch&year=2000</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/56mOJth6DJ6JhgoE2jtpilVqJO.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Am xc3 xa9lie</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0211915&title=Am xc3 xa9lie&year=2001</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vZ9NhNbQQ3yhtiC5sbhpy5KTXns.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>The Kid</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0012349&title=The Kid&year=1921</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/drgMcyTsySQBnUPGaBThCHGdlWT.jpg</thumbnail>
+</plugin>
