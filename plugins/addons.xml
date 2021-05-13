@@ -1,5 +1,5 @@
 <addons>
-<addon id="repository.prototype" name="Prototype-Repo" version="1.0.10" provider-name="Cable">
+<addon id="repository.prototype" name="Prototype-Repo" version="1.0.11" provider-name="Cable">
 	<extension point="xbmc.addon.repository" name="Prototype-Repo">
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/elijahcarasco/prototype/main/plugins/addons.xml</info>
@@ -64,7 +64,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.pyramid_head" version="0.0.5" name="Pyramid Head" provider-name="Cable">
+<addon id="plugin.video.pyramid_head" version="0.0.6" name="Pyramid Head" provider-name="Cable">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.resolveurl" />

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.pyramid_head" version="0.0.5" name="Pyramid Head" provider-name="Cable">
+<addon id="plugin.video.pyramid_head" version="0.0.6" name="Pyramid Head" provider-name="Cable">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.resolveurl" />
