@@ -1,0 +1,35 @@
+<plugin>
+	<name>Alien</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0078748&title=Alien&year=1979</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Aliens</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0090605&title=Aliens&year=1986</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Alien Covenant</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt2316204&title=Alien Covenant&year=2017</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Alien Resurrection</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0118583&title=Alien Resurrection&year=1997</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/kzslFL1n01WI5lEcYzFSUi3Quik.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Alien xb3</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0103644&title=Alien xb3&year=1992</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/hlabk6APJUeihZDaSD9N6iI0f4g.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Prometheus</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt1446714&title=Prometheus&year=2012</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qsYQflQhOuhDpQ0W2aOcwqgDAeI.jpg</thumbnail>
+</plugin>
+<plugin>
+	<name>Alien vs Predator</name>
+	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0370263&title=Alien vs Predator&year=2004</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/2DKoPom57PVtJWcJlq7bS7JpahU.jpg</thumbnail>
+</plugin>
