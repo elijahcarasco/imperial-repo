@@ -177,7 +177,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.nephilim.tvb" name="Nephilim TV B" version="1.0.1" provider-name="Cable">
+<addon id="plugin.video.nephilim.tvb" name="Nephilim TV B" version="2.0.12" provider-name="Cable">
 	<requires>
 		<!-- <import addon="xbmc.python" version="3.0.0" /> -->
 		<import addon="script.module.six"/>
