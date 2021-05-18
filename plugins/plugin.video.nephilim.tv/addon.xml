@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.nephilim.tv" name="Nephilim TV" version="1.0.5" provider-name="Cable">
+	<requires>
+		<!-- <import addon="xbmc.python" version="2.1.0"/> -->
+		<import addon="script.module.beautifulsoup4" version="3.2.1"/>
+		<import addon="script.module.requests"  />
+		<import addon="script.module.resolveurl" />
+		<import addon="script.module.dateutil"/>
+		<import addon="script.module.pytz"/>
+		
+    	
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">TV addon.</summary>
+		<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon it is merely a search engine</disclaimer>
+		
+		<platform>all</platform>
+
+		<assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+	</extension>
+</addon>

@@ -94,5 +94,115 @@
 	</extension>
 </addon>
 
+<addon id="plugin.video.nephilim" version="1.1.0" name="Nephilim" provider-name="Cable">
+    <requires>
+        <!--<import addon="xbmc.python" version="2.25.0" />-->
+        <import addon="script.module.requests" />
+        <import addon="script.module.resolveurl" />
+        <import addon="script.module.simplejson" />
+        <import addon="script.module.requests" />
+        <import addon="script.module.beautifulsoup4" />
+        <import addon="script.module.six" />
+        <import addon="script.module.kodi-six" />
+        <import addon="plugin.video.youtube" optional="true" />
+        <import addon="script.module.inputstreamhelper" version="0.3.3"/>
+		<import addon="plugin.video.nephilim.toons" />
+    </requires>
+    <extension library="nephilim.py" point="xbmc.python.pluginsource">
+        <provides>video</provides>
+    </extension>
+    <extension library="service.py" point="xbmc.service" start="startup" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Nephilim</summary>
+        <description lang="en">Nephilim</description>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+        <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
+<addon id="plugin.video.nephilim.toons" name="Nephilim Toons" version="0.0.1" provider-name="Cable">
+    <requires>
+        <import addon="script.module.requests" />
+        <import addon="script.module.six"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="en">Nephilim Toons</description>
+        <disclaimer lang="en">https://</disclaimer>	
+        <summary lang="en">Watch cartoons</summary>
+        <language>en</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website>https://github.com/Lockdown/blomqvist</website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
+<addon id="plugin.video.nephilim.tv" name="Nephilim TV" version="1.0.5" provider-name="Cable">
+	<requires>
+		<!-- <import addon="xbmc.python" version="2.1.0"/> -->
+		<import addon="script.module.beautifulsoup4" version="3.2.1"/>
+		<import addon="script.module.requests"  />
+		<import addon="script.module.resolveurl" />
+		<import addon="script.module.dateutil"/>
+		<import addon="script.module.pytz"/>
+		
+    	
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">TV addon.</summary>
+		<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon it is merely a search engine</disclaimer>
+		
+		<platform>all</platform>
+
+		<assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+	</extension>
+</addon>
+
+<addon id="plugin.video.nephilim.tvb" name="Nephilim TV B" version="1.0.1" provider-name="Cable">
+	<requires>
+		<!-- <import addon="xbmc.python" version="3.0.0" /> -->
+		<import addon="script.module.six"/>
+		<import addon="script.module.requests" />
+		<import addon="script.module.inputstreamhelper" version="0.3.3"/>
+		<import addon="script.module.resolveurl" version="5.0.00"/>
+		<import addon="script.module.pytz" version="2014.2"/>
+
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="maintv.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.service" library="serverHTTP.py" />
+	<extension point="xbmc.addon.metadata">
+		<description>construct tv</description>
+		<disclaimer>https://</disclaimer>
+		<summary>Relacje Live</summary>
+		<language></language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<website></website>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>
+
 </addons>
 
