@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+
+
+<plugin>
+<title>TV</title>
+<link>plugin://plugin.video.nephilim.tv/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
+<plugin>
+<title>TV B</title>
+<link>plugin://plugin.video.nephilim.tvb/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
