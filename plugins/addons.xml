@@ -107,6 +107,8 @@
         <import addon="plugin.video.youtube" optional="true" />
         <import addon="script.module.inputstreamhelper" version="0.3.3"/>
 		<import addon="plugin.video.nephilim.toons" />
+		<import addon="plugin.video.nephilim.tv" />
+		<import addon="plugin.video.nephilim.tvb" />
     </requires>
     <extension library="nephilim.py" point="xbmc.python.pluginsource">
         <provides>video</provides>

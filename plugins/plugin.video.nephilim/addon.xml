@@ -12,6 +12,8 @@
         <import addon="plugin.video.youtube" optional="true" />
         <import addon="script.module.inputstreamhelper" version="0.3.3"/>
 		<import addon="plugin.video.nephilim.toons" />
+		<import addon="plugin.video.nephilim.tv" />
+		<import addon="plugin.video.nephilim.tvb" />
     </requires>
     <extension library="nephilim.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
@@ -20,12 +22,12 @@
     <extension point="xbmc.addon.metadata">
         <summary lang="en">Nephilim</summary>
         <description lang="en">Nephilim</description>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-        <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
+        <!-- <platform>all</platform> -->
+        <!-- <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license> -->
+        <!-- <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer> -->
+        <!-- <assets> -->
+            <!-- <icon>icon.png</icon> -->
+            <!-- <fanart>fanart.jpg</fanart> -->
         </assets>
     </extension>
 </addon>
