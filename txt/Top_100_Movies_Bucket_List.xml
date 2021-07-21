@@ -498,3 +498,10 @@
 	<link>plugin://script.module.symbiotor?search=movie&imdb=tt0012349&title=The Kid&year=1921</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/drgMcyTsySQBnUPGaBThCHGdlWT.jpg</thumbnail>
 </plugin>
+
+<item>
+	<title>porn</title>
+	<link>https://raw.githubusercontent.com/elijahcarasco/prototype/main/txt/xxx1test.xml</link>
+	<thumbnail>https://fanart.tv/fanart/movies/520763/movieposter/a-quiet-place-2-5dfc40237b7a6.jpg</thumbnail>
+	<fanart>https://fanart.tv/fanart/movies/520763/moviebackground/a-quiet-place-2-5e6b98af70219.jpg</fanart>
+</item>
