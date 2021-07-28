@@ -4,3 +4,10 @@
 	<thumbnail></thumbnail>
 	<fanart></fanart>
 </dir>
+
+<dir>
+	<name>**Spanish Movies (NON-DEBRID)**</name>
+	<link>https://raw.githubusercontent.com/elijahcarasco/prototype/main/txt/newaddon/spanish.xml</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
